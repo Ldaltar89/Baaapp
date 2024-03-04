@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618967674029",
+    "project_id": "baaapp-44516",
+    "storage_bucket": "baaapp-44516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618967674029:android:3726c33b708859f35bea24",
+        "android_client_info": {
+          "package_name": "com.leonardoaltamirano.baaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMjOe7n2Q29ovJeToS_R7Cicl2IOrSS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
